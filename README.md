@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">President of Accounting club at PMU | junior Accounting at Prince Mohammad Bin Fahd University | #PMUer</p>
+<p align="left">President of Accounting club at PMU | junior Accounting at Prince Mohammad Bin Fahd University | #PMUer | Business Data Analyst</p>
 
 ###
 
