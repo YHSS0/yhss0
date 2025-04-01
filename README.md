@@ -19,7 +19,7 @@
 <p align="left"> Accounting Student | President of the Accounting Club at PMU | Business Data Analyst
 
 
-#PMUer | #Accounting | #DataAnalytics | #Leadership</p>
+#PMUer | #Accounting | #DataAnalytics </p>
 
 ###
 
