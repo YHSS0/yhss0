@@ -16,11 +16,8 @@
 
 ###
 
-<p align="left">Junior Accounting Student | President of the Accounting Club at PMU | Aspiring Business Data Analyst
+<p align="left"> Accounting Student | President of the Accounting Club at PMU | Business Data Analyst
 
-As a junior accounting student at Prince Mohammad Bin Fahd University (PMU) and the President of the Accounting Club, I am passionate about financial analysis, auditing, and business data analytics. I strive to bridge the gap between accounting and data-driven decision-making, leveraging analytical tools to enhance financial insights. My role in the Accounting Club allows me to foster a collaborative environment for students to develop their technical and professional skills.
-
-With a strong foundation in accounting principles and an interest in business data analysis, I aim to integrate financial expertise with analytical proficiency to drive informed decision-making.
 
 #PMUer | #Accounting | #DataAnalytics | #Leadership</p>
 
