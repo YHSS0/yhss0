@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"> Accounting Student | President of the Accounting Club at PMU | Business Data Analyst
+<p align="left"> 
 
 
 #PMUer | #Accounting | #DataAnalytics </p>
